@@ -1,4 +1,4 @@
-  # Hi there !
+# Hi there !
   
 ## This is Ejike Ugochinyere Grace, a Data Analyst and Business Intelligence Guru.
 - 👀 I’m interested in Data and Analysis.
